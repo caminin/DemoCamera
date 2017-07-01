@@ -1,0 +1,36 @@
+html { 
+     background-image: url('../img/background.jpg');
+     background-size: 1080px 1920px;
+     background-repeat: no-repeat; 
+ }
+ 
+body{
+    background:transparent;
+    width: 1075px;
+    height : 1915px;
+/*     overflow:hidden; */
+}
+
+.box_category{
+    width:246px;
+    height:280px;
+    background-color:#3e3db2;
+    margin-right:15px;
+    margin-top : 15px;
+}
+
+.icon{
+    width:150px;
+    height:150px;
+    margin-top:15px;
+    margin-left:40px;
+}
+
+.text{
+    margin-top:8px;
+    font-size:22px;
+    text-align: center;    
+    color: white;
+    font-weight: 600;
+    text-transform: uppercase;
+}

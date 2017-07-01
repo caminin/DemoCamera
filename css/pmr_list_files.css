@@ -1,0 +1,83 @@
+.header{
+    height:93px;    
+    background-color:#3e3db2;
+    margin-bottom:20px;
+}
+
+.entete_text{
+    font-size:40px;
+    font-weight:600;
+    text-align:center;
+    color:white;
+    padding-top:15px;
+    text-transform: uppercase;
+    
+}
+
+.btn-back{
+    margin-top:5px;
+    font-size:65px;
+    color:white;
+    background-color:rgba(0,0,0,0);
+    border:none;
+    height:85px;
+}
+
+
+.btn-transparent{
+    margin-left:60px;
+    background-color: transparent;
+    border: none;
+    height:100px;
+    
+}
+.btn-icon{
+    font-size: 10em;
+    color:#3e3db2;
+}
+
+.btn-bottom{
+    position:relative;
+    margin-top:250%;
+}
+
+.box_list{
+    width:270px;
+    margin-bottom:15px;
+    height:53px;
+    
+}
+
+.list_files{
+    background-color:rgba(255,255,255,0.4);
+    width:270px;
+    height:120px;
+}
+
+.text{
+    margin-top: 15px;
+    text-align: left;    
+    color: white;
+    font-weight: 600;
+}
+
+.read{
+    margin-left:20px;
+}
+
+.box_1{
+    background-color:#0e7ac3;
+}
+
+.box_0{
+    background-color:#81c7f8;
+}
+
+
+.back{
+    background-color:white;
+}
+
+.image{
+    margin-left:110px;
+}

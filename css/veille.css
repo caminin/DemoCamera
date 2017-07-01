@@ -1,0 +1,92 @@
+html { 
+     background-image: url('../img/background.jpg');
+     background-size: 1080px 1920px;
+     background-repeat: no-repeat; 
+     overflow:hidden;
+ }
+ 
+body{
+    background:transparent;
+    background-color:black;
+    width: 1075px;
+    height : 1915px;
+    overflow:hidden;
+}
+
+.row_1{
+    height:1050px;
+}
+
+.row2{
+    height:850px;
+}
+
+.image_paysage{
+    width:1045px;
+    height:588px;
+}
+
+.remove_all{
+    margin:0 ;
+    padding:0 ;
+}
+
+.text_touch{
+    padding-left:150px;
+    padding-top:550px;
+    text-align:left;
+    font-size:55px;
+    color: white;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.icon_touch{
+    padding-top:490px;
+    padding-left:100px;
+    color:white;
+    font-size:150px;
+}
+
+.fa-bounce {
+    display: inline-block;
+    position: relative;
+    -moz-animation: bounce 4s infinite linear;
+    -o-animation: bounce 4s infinite linear;
+    -webkit-animation: bounce 4s infinite linear;
+    animation: bounce 4s infinite linear;
+}
+
+@-webkit-keyframes bounce {
+    0% { top: 0; }
+    50% { top: -0.6em; }
+    70% { top: -1.0em; }
+    100% { top: 0; }
+}
+@-moz-keyframes bounce {
+    0% { top: 0; }
+    50% { top: -0.6em; }
+    70% { top: -1.0em; }
+    100% { top: 0; }
+}
+@-o-keyframes bounce {
+    0% { top: 0; }
+    50% { top: -0.6em; }
+    70% { top: -1.0em; }
+    100% { top: 0; }
+}
+@-ms-keyframes bounce {
+    0% { top: 0; }
+    50% { top: -0.6em; }
+    70% { top: -1.0em; }
+    100% { top: 0; }
+}
+@keyframes bounce {
+    0% { top: 0; }
+    50% { top: -0.6em; }
+    70% { top: -1.0em; }
+    100% { top: 0; }
+}
+
+
+

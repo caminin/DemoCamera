@@ -1,0 +1,19 @@
+.fb-page{
+    margin-left:270px;
+} 
+
+
+
+.invisible_block{
+    position:absolute;
+    
+    width:745px;
+    height:1400px;
+    background-color:rgb(200,200,200,00);
+    z-index: 1 !important;
+}
+
+.keep_height{
+    height:1410px;
+    position:relative;
+}

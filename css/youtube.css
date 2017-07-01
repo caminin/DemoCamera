@@ -1,0 +1,13 @@
+.player{
+    margin-left:50px;
+    margin-top:455px;
+    margin-bottom:455px;
+} 
+
+.invisible_block{
+    position:absolute; 
+    width:1040px;
+    height:1400px;
+    background-color:rgb(200,200,200,0);
+    z-index: 1 !important;
+}

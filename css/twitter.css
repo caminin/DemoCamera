@@ -1,0 +1,32 @@
+.twitter-timeline{
+    margin-left:140px;
+    
+} 
+
+.invisible_block{
+    position:absolute;
+    
+    width:910px;
+    height:1400px;
+    background-color:rgb(200,200,200,0);
+}
+
+.invisible_block_2{
+    position:absolute;
+    
+    width:1000px;
+    height:50px;
+    background-color:rgb(200,200,200,0);
+}
+
+.invisible_block_3{
+    position:absolute;
+    margin-top:1370px;
+    width:1000px;
+    height:50px;
+    background-color:rgb(200,200,200,0);
+}
+
+.keep_height{
+    height:1410px;
+}
